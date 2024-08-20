@@ -5,6 +5,10 @@ Manual tecnico.
 
 1.- Cambiar la cadena de conexión, que se encuentra en el archivo ".env".
 
+2.- correr proyecto con npm run dev (terminal de visual code)
+
+ 
+
 Nota: Si se requiere cambiar de puerto, es necesario realizar el cambio en el archivo ".env" y en server.ts ,
 dirigirse en la función configuration ().
 
